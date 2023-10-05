@@ -1,12 +1,6 @@
 
 <h1 align="center">WELCOME TO MY WORLD</h1>
 
-<h2 align="left">Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yummo8&locale=en&hide_title=false&layout=compact&count_private=true&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=midasminer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true&order=3" height="200" alt="streak graph"  />
-</div>
-
 <h2 align="left">Skills Set</h2>
 
 |   Frontend           |Backend                  |
@@ -21,4 +15,10 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndiritumichael" alt="ndiritumichael" /></a> </p>
+<h2 align="left">Stats & Awards</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yummo8&locale=en&hide_title=false&layout=compact&count_private=true&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=midasminer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true&order=3" height="200" alt="streak graph"  />
+</div>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jurkian" alt="visheshguria" /></a> </p>

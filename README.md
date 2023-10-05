@@ -30,9 +30,11 @@
 <br>
 
 <h2 align="left">Stats & Awards</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yummo8&locale=en&hide_title=false&layout=compact&count_private=true&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Yummo8&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true&order=3" height="200" alt="streak graph"  />
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdo-Mohammed-10&theme=darkhub" alt="abdo-mohammed-10" /></a> </p>
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
+</p>

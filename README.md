@@ -2,11 +2,9 @@
 <h1 align="center">👋 WELCOME TO MY WORLD 👋</h1>
 
 <h3 align="center">
-  *****
-  <br>
-  Experienced Full-Stack Mobile & Web App Developer 
-  <br>
-  *****
+ Experienced Full-Stack Mobile & Web App Developer
+ <br>
+ *****
 </h3>
 
 <h2 align="left">Skills Set</h2>

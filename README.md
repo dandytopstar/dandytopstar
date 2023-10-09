@@ -32,7 +32,7 @@
 <h2 align="left">Stats & Awards</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yummo8&locale=en&hide_title=false&layout=compact&count_private=true&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dandytopstar&locale=en&hide_title=false&layout=compact&count_private=true&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 <p align="center">

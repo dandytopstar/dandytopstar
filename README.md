@@ -4,6 +4,7 @@
 <br>
 
 <h2 align="center">Experienced Full-Stack Mobile & Web App Developer</h2>
+
 <p>Experienced Full Stack Software Engineer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. </p>
 <p>Adept in making key decisions and working with other professionals to achieve goals and solve problems. Experienced in managing employee and community programs, and dedicated to successfully directing business operations. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.</p>
 <p>Proficient in an assortment of technologies, including Web and Mobile technology such as ReactJS, NextJS, VueJS, Flutter, React Native, and Microsoft SQL Server.</p>
